@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="cleartype" content="on">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="HandheldFriendly" content="True">
+        <meta name="MobileOptimized" content="320">
+
+        <title>SHOW US WHAT YOU GOT</title>
+
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <header>
+            <h1>USA TODAY Network Food Competition</h1>
+        </header>
+
+        <div id="mainEvent">
+            <h2>Current Event: <span class="event-name">Soup / Stew</span></h2>
+
+            <div id="itemContainer">
+
+            </div>
+        </div>
+
+        <div id="hallOfFame">
+            <h2>Hall of fame</h2>
+            <ul>
+                <li>Chili Cookoff: Bill Maness</li>
+                <li>Dessert: Jesiah McCann</li>
+                <li>Appetizers: Josh Trout</li>
+                <li>Cookies: Drea Pappas</li>
+            </ul>
+        </div>
+
+        <template id="itemRenderer">
+            <style>
+                h1 {
+                    border-bottom: 1px solid cornflowerblue;
+                }
+            </style>
+            <div class="item">
+                <h1>Default title</h1>
+                <img />
+                <p>Default description</p>
+                <a id="like">Love it!</a>
+                <a id="dislike">Hate it!</a>
+            </div>
+        </template>
+
+    </body>
+</html>
