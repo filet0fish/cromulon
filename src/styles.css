@@ -1,0 +1,9 @@
+h1 {
+    font-family: sans-serif;
+    border-bottom: 4px solid #009bff;
+}
+
+#hallOfFame {
+    border: 1px solid #333;
+    box-shadow: 2px 2px #555;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "cromulon",
+  "version": "1.0.0",
+  "description": "SHOW US WHAT YOU GOT",
+  "repository": {
+    "url": "https://github.com/filet0fish/cromulon",
+    "type": "git"
+  },
+  "author": "Josh Trout <jtrout@gannett.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
