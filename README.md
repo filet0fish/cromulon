@@ -15,3 +15,5 @@
 | 20 | Bundle JS | |
 | 25 | Transpile JS | |
 | 50 | Persist votes across page refresh | |
+| | Hide the name of the entrant until after voting so it is a secret ballot |
+| | Write tests for `contest.js` | |
