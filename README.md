@@ -9,6 +9,7 @@
 # Challenges
 
 | Points | Task | Attempted |
+| :-: | :--- | :-: |
 | 5 | Update page title to "USA TODAY Network Food Showdown" | |
 | 15 | Make the page `<header>` stick to the top of the page when scrolling | |
 | 15 | Make the Hall of fame box display in a column to the left of the main event box at screen widths greater than 800px. It should still appear below the main event at smaller screen widths | |
